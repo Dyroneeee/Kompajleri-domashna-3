@@ -1,0 +1,3 @@
+/home/kristijan/workspace2/domashna3/build/CMakeFiles/rebuild_cache.dir
+/home/kristijan/workspace2/domashna3/build/CMakeFiles/edit_cache.dir
+/home/kristijan/workspace2/domashna3/build/CMakeFiles/testStudent.dir

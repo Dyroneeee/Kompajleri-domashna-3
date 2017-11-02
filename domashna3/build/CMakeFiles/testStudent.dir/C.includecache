@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/head.h
+
+/home/kristijan/workspace2/domashna3/src/prva.c
+stdio.h
+-
+head.h
+/home/kristijan/workspace2/domashna3/src/head.h
+
